@@ -1,8 +1,8 @@
 # You have to configure this ###################################################
-title: Octopod
+title: Podcast do Tiago 
 # You should configure this ####################################################
 url: 
-subtitle: podcast delivery for geeks
+subtitle: o melhor do mundo
 description: My super duper cool podcast.
 author: Uncle Octopod
 email: octopod@example.com
@@ -29,7 +29,7 @@ ssh_port: 22
 document_root: /path/to/your/htdocs/
 rsync_delete: true
 # You can configure this #######################################################
-twitter_nick:
+twitter_nick:tiago_1989
 language: en
 explicit: 'no'  # 'yes'/'no'/clean
 # license: CC BY-NC-SA 3.0
